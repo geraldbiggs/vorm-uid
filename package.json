@@ -1,12 +1,14 @@
 {
   "name": "vorm-uid",
   "description": "Simple small uid wrapper",
+  "license": "GPL-3.0",
   "version": "1.0.0",
   "module": "src/index.js",
   "scripts": {
     "build": "vite build"
   },
   "devDependencies": {
+    "@babel/core": "^7.0.0",
     "@babel/eslint-parser": "^7.13.14",
     "eslint": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
